@@ -6,6 +6,8 @@ This project is a strategy-focused, data-driven presentation analyzing Apple Inc
 
 The analysis uses real-world datasets (Statista, MacroTrends, Counterpoint Research) and applies frameworks like AIDA, STP, and Funnel Optimization. Visuals were designed to align with Apple’s clean brand identity, ensuring clarity and impact for executive-level decision-making.
 
+---
+
 🎯 Objectives
 
 Analyze Apple’s historical & forecasted revenue trends (2006–2025F)
@@ -19,6 +21,8 @@ Break down Apple’s product launch strategy & marketing psychology
 Visualize 2024 revenue by product and 3D data models
 
 Recommend KPIs & strategic goals for 2025 (Services, retention, CAC, cross-sell)
+
+---
 
 ✅ Key Areas Covered
 
@@ -36,6 +40,8 @@ Recommend KPIs & strategic goals for 2025 (Services, retention, CAC, cross-sell)
 
 🎯 Strategic KPIs for 2025 (Services $100B, Retention >90%, CAC reduction)
 
+---
+
 🛠️ Tools & Data Sources
 
 Data: Apple IR, Statista, MacroTrends, Counterpoint, YCharts
@@ -43,6 +49,8 @@ Data: Apple IR, Statista, MacroTrends, Counterpoint, YCharts
 Design: Canva, Figma, Python (Matplotlib), Gamma
 
 Frameworks: AIDA, STP, Funnel Optimization
+
+---
 
 🎯 Purpose of the Project
 
@@ -55,6 +63,8 @@ Apply marketing psychology & funnel optimization
 Visualize data in executive-ready formats
 
 Deliver professional insights aligned with Apple’s global brand
+
+---
 
 🔗 Project Resources
 
